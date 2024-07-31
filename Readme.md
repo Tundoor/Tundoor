@@ -4,7 +4,7 @@ Hi 👋 My name is Thandolwethu Mbokazi
 Front-End Developer
 -------------------
 Currently learning Front-End Development. 
-<img src="https://github.com/user-attachments/assets/2ae3df53-02c6-4f80-a79b-2b358b2c5a9c" height="200px">
+<img src="https://github.com/user-attachments/assets/2ae3df53-02c6-4f80-a79b-2b358b2c5a9c" height="200px" width="100vw">
 
 My coding Journey
 <p> I was introduced to code in 2023 at a careers expo. I instantly fell in love with it and decided to become a front-end developer. I'm currently studying at CodeSpace and am now profiecient in languages such as HTML and CSS and was introduced to frameworks such as Tailwind and preproccessors like LESS and SASS. </p>
