@@ -1,3 +1,6 @@
+![banner 2 (1)](https://github.com/user-attachments/assets/5259be7c-b9df-44b5-9f08-9a2625b011ce)
+
+
 Hi 👋 My name is Thandolwethu Mbokazi
 =====================================
 
