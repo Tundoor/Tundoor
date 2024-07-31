@@ -6,13 +6,11 @@ Hi 👋 My name is Thandolwethu Mbokazi
 
 Front-End Developer
 -------------------
-Currently learning Front-End Development. 
-<h>My coding Journey</h>
 <p> I was introduced to code in 2023 at a careers expo. I instantly fell in love with it and decided to become a front-end developer. I'm currently studying at CodeSpace and am now profiecient in languages such as HTML and CSS and was introduced to frameworks such as Tailwind and preproccessors like LESS and SASS. </p>
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [thandwem045@gmail.com](mailto:thandwem045@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning JavaScript and working towards becoming a Front-End developer
 * ⚡  I have an interest in the Arts and baking.
 
 ### Skills
