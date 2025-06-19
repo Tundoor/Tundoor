@@ -1,4 +1,5 @@
-![banner 2 (1)](https://github.com/user-attachments/assets/5259be7c-b9df-44b5-9f08-9a2625b011ce)
+![Thandolwethu Mbokazi](https://github.com/user-attachments/assets/66c04518-0b04-49ca-b8cc-5898fca0f5ba)
+
 
 
 Hi 👋 My name is Thandolwethu Mbokazi
